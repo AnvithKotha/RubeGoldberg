@@ -22,5 +22,4 @@ function Box(x,y,w,h,fixed,d){
             pop();
         }
     }
-
 }
